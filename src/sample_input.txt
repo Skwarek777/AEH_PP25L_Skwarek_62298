@@ -1,0 +1,7 @@
+Pierwsza linia
+Druga linia
+Trzecia linia
+A
+A
+A
+BBB CCC DDD
